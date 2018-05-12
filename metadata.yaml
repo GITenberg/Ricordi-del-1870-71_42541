@@ -1,0 +1,32 @@
+_repo: Ricordi-del-1870-71_42541
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42541-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amicis, Edmondo de
+    - Amichis, Edmondo de
+    - Amicis, Edmundo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_bookshelf: IT Narrativa varia
+gutenberg_issued: '2013-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42541'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1849-1870 -- Sources'
+- !lcc 'DG'
+title: Ricordi del 1870-71
+url: http://www.gutenberg.org/ebooks/42541
